@@ -1,2 +1,3 @@
 Hacker News is a website known for providing information across the globe. scraping is a concept of gathering the information we need or extracting the only information we need from the website, here I used python programming language to web scrape the hacker website to extract the titles, votes, and the links. Hope you like this
 Just paste the code in your python idle and run it you will get the output in title votes and links to the information you want to extract from hacker news.
+NOTE : Please make sure you we scrape only the contents which are made public by the website or just take permission from the website to scrape their details.
